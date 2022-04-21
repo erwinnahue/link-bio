@@ -1,0 +1,16 @@
+#userimage {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+body{
+    background-color: dimgray;
+    margin: 0 auto;
+    width: 300px;
+    height: 250px;
+    margin: auto;
+    margin-top: 25px;
+}
