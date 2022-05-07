@@ -8,8 +8,7 @@
 }
 
 body{
-  /* background: -webkit-gradient(linear, left bottom, left top, from (blue) to (#4f4fc9)) fixed; */
-  background: linear-gradient(#9198e5, #019137) fixed;
+  background: linear-gradient(#3dbba6, #2684dd) fixed;
 }
 
 .center{
