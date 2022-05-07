@@ -15,8 +15,12 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
+#uname{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #username {
   color: whitesmoke;
+
 }
 .enlaces {
   color: #fff;
