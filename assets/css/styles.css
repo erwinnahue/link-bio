@@ -19,7 +19,6 @@ body{
 
 section.box1{
   margin-top: 50px;
-
 }
 
 .container{
@@ -40,4 +39,8 @@ section.box1{
 
 .description{
   text-align: center;
+}
+
+.links a{
+  text-decoration: none;
 }
